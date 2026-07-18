@@ -1,9 +1,6 @@
 # 🏅 Certificates — Hazem Hawari
 
 ```
-$ ls ./credentials
-```
-
 > Kumpulan sertifikasi resmi yang mendukung latar belakang akademik dan kompetensi kuantitatif saya di bidang data analytics.
 
 ---
@@ -23,10 +20,10 @@ $ ls ./credentials
 
 ## About
 
-**Hazem Hawari, S.Mat.**
+**Hazem Hawari, S.Si.**
 
 ```
-education    S.Mat. — Mathematics & Data Science, Universitas Andalas
+education    S.Si. — Mathematics, Universitas Andalas
 specialty    Analysis and Geometry
 based in     Padang, Indonesia
 ```
