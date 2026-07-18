@@ -12,9 +12,9 @@ $ ls ./credentials
 
 | no | sertifikat | penerbit | periode | file |
 |---|---|---|---|---|
-| 1 | 📊 Construct Stock Market Indices | Coursera | May 2026 | [Lihat PDF](./Coursera%20C7G66ISAWN9M.pdf) |
+| 1 | 📊 Construct Stock Market Indices | Coursera | May 2026 | [Lihat PDF](./Construct%20Stock%20Market%20Indices) |
 | 2 | 📗 Getting Started with Microsoft Excel | Coursera | May 2026 | [Lihat PDF](./Coursera%20IBSV5EHFOZPT.pdf) |
-| 3 | 📈 Mini Course Data Analytics | RevoU | May 2026 | [Lihat PDF](./DAMC_hazemhawari22%40gmail.com.pdf) |
+| 3 | 📈 Mini Course Data Analytics | RevoU | May 2026 | [Lihat PDF](./DAMC_hazemhawari22%40gmail.com_DAMC-180526-01-1-00394_(1)..pdf) |
 | 4 | 🗣️ TOEFL Prediction — Score 553 | Central Course | Aug 2025 – Aug 2027 | [Lihat PDF](./HAZEM%20HAWARI%20(2).pdf) |
 
 <sub>tabel ini di-update manual setiap ada sertifikat baru — bukan generate otomatis</sub>
