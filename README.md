@@ -1,6 +1,5 @@
 # 🏅 Certificates — Hazem Hawari
 
-```
 > Kumpulan sertifikasi resmi yang mendukung latar belakang akademik dan kompetensi kuantitatif saya di bidang data analytics.
 
 ---
